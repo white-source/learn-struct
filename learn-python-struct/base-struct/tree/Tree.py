@@ -1,5 +1,5 @@
 """
-1 BinaryTree() 创建一个二叉树实例
+1 BinaryTree.py() 创建一个二叉树实例
 2 getLeftChild() 返回当前节点的左子节点对应的二叉树
 3 getRightChild() 返回当前节点的右子节点对应的二叉树
 4 setRootVal(val) 在当前节点中存储参数val中的对象
