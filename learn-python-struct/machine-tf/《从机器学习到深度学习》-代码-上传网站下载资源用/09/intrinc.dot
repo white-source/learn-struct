@@ -1,0 +1,91 @@
+digraph G {
+        rankdir=LR
+	splines=line
+        nodesep=.05;        
+        node [label=""];
+        
+        subgraph cluster_0 {
+		color=white;
+                node [style=solid,color=blue4, shape=circle];
+		x1 x2 x3;
+		label = "layer 1 (输入层)";
+	}
+
+	subgraph cluster_1 {
+		color=white;
+		node [style=solid,color=red2, shape=circle];
+		a12 a22 a32 a42 a52;
+		label = "layer 2 (隐藏层1)";
+	}
+
+	subgraph cluster_2 {
+		color=white;
+		node [style=solid,color=red2, shape=circle];
+		a13 a23 a33 a43;
+		label = "layer 3 (隐藏层2)";
+	}
+
+	subgraph cluster_3 {
+		color=white;
+		node [style=solid,color=seagreen2, shape=circle];
+		y1 y2 y3 y4;
+		label="layer4 (输出层)";
+	}
+
+
+        x1 -> a12
+        x1 -> a22
+        x1 -> a32
+
+
+        x2 -> a32
+        x2 -> a42
+        x2 -> a52
+ 
+        x3 -> a12
+        x3 -> a22
+        x3 -> a32
+        x3 -> a42
+        x3 -> a52
+
+        a12 -> a13 
+        a22 -> a13
+        a32 -> a13
+        a42 -> a13
+        a52 -> a13
+
+        a12 -> a23
+        a22 -> a23
+        a32 -> a23
+        a42 -> a23
+        a52 -> a23
+
+        a12 -> a33
+        a22 -> a33
+        a32 -> a33
+        a42 -> a33
+        a52 -> a33
+
+        a12 -> a43
+        a22 -> a43
+        a32 -> a43
+        a42 -> a43
+        a52 -> a43
+
+        a13 -> y1
+        a23 -> y1
+        a33 -> y1
+        a43 -> y1
+
+        a13 -> y2
+        a33 -> y2
+        a43 -> y2
+
+        a13 -> y3
+        a23 -> y3
+        a43 -> y3
+
+        a13 -> y4
+        a23 -> y4
+        a33 -> y4
+}

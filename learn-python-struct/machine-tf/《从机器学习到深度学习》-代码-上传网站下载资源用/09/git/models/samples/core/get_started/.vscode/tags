@@ -1,0 +1,56 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CSV_COLUMN_NAMES	../iris_data.py	/^CSV_COLUMN_NAMES = ['SepalLength', 'SepalWidth',$/;"	kind:variable	line:7
+CSV_TYPES	../iris_data.py	/^CSV_TYPES = [[0.0], [0.0], [0.0], [0.0], [0]]$/;"	kind:variable	line:67
+FOUR_LINES	../estimator_test.py	/^FOUR_LINES = "\\n".join([$/;"	kind:variable	line:30
+RegressionTest	../estimator_test.py	/^class RegressionTest(tf.test.TestCase):$/;"	kind:class	line:45
+SPECIES	../iris_data.py	/^SPECIES = ['Setosa', 'Versicolor', 'Virginica']$/;"	kind:variable	line:9
+StringIO	../estimator_test.py	/^from six.moves import StringIO$/;"	kind:namespace	line:24
+TEST_URL	../iris_data.py	/^TEST_URL = "http:\/\/download.tensorflow.org\/data\/iris_test.csv"$/;"	kind:variable	line:5
+TRAIN_URL	../iris_data.py	/^TRAIN_URL = "http:\/\/download.tensorflow.org\/data\/iris_training.csv"$/;"	kind:variable	line:4
+_parse_line	../iris_data.py	/^def _parse_line(line):$/;"	kind:function	line:69
+absolute_import	../custom_estimator.py	/^from __future__ import absolute_import$/;"	kind:namespace	line:15
+absolute_import	../estimator_test.py	/^from __future__ import absolute_import$/;"	kind:namespace	line:17
+absolute_import	../premade_estimator.py	/^from __future__ import absolute_import$/;"	kind:namespace	line:15
+argparse	../custom_estimator.py	/^import argparse$/;"	kind:namespace	line:19
+argparse	../premade_estimator.py	/^import argparse$/;"	kind:namespace	line:19
+csv_input_fn	../iris_data.py	/^def csv_input_fn(csv_path, batch_size):$/;"	kind:function	line:82
+custom_estimator	../estimator_test.py	/^import custom_estimator$/;"	kind:namespace	line:27
+custom_estimator.py	../custom_estimator.py	1;"	kind:file	line:1
+division	../custom_estimator.py	/^from __future__ import division$/;"	kind:namespace	line:16
+division	../estimator_test.py	/^from __future__ import division$/;"	kind:namespace	line:18
+division	../premade_estimator.py	/^from __future__ import division$/;"	kind:namespace	line:16
+estimator_test.py	../estimator_test.py	1;"	kind:file	line:1
+eval_input_fn	../iris_data.py	/^def eval_input_fn(features, labels, batch_size):$/;"	kind:function	line:42
+four_lines_data	../estimator_test.py	/^def four_lines_data():$/;"	kind:function	line:36
+help	../custom_estimator.py	/^                    help='number of training steps')$/;"	kind:variable	line:27
+help	../premade_estimator.py	/^                    help='number of training steps')$/;"	kind:variable	line:27
+iris_data	../custom_estimator.py	/^import iris_data$/;"	kind:namespace	line:22
+iris_data	../estimator_test.py	/^import iris_data$/;"	kind:namespace	line:26
+iris_data	../premade_estimator.py	/^import iris_data$/;"	kind:namespace	line:22
+iris_data.py	../iris_data.py	1;"	kind:file	line:1
+load_data	../iris_data.py	/^def load_data(y_name='Species'):$/;"	kind:function	line:17
+main	../custom_estimator.py	/^def main(argv):$/;"	kind:function	line:72
+main	../premade_estimator.py	/^def main(argv):$/;"	kind:function	line:29
+maybe_download	../iris_data.py	/^def maybe_download():$/;"	kind:function	line:11
+my_model	../custom_estimator.py	/^def my_model(features, labels, mode, params):$/;"	kind:function	line:29
+parser	../custom_estimator.py	/^parser = argparse.ArgumentParser()$/;"	kind:variable	line:24
+parser	../premade_estimator.py	/^parser = argparse.ArgumentParser()$/;"	kind:variable	line:24
+pd	../estimator_test.py	/^import pandas as pd$/;"	kind:namespace	line:22
+pd	../iris_data.py	/^import pandas as pd$/;"	kind:namespace	line:1
+premade_estimator	../estimator_test.py	/^import premade_estimator$/;"	kind:namespace	line:28
+premade_estimator.py	../premade_estimator.py	1;"	kind:file	line:1
+print_function	../custom_estimator.py	/^from __future__ import print_function$/;"	kind:namespace	line:17
+print_function	../estimator_test.py	/^from __future__ import print_function$/;"	kind:namespace	line:19
+print_function	../premade_estimator.py	/^from __future__ import print_function$/;"	kind:namespace	line:17
+test_custom_estimator	../estimator_test.py	/^  def test_custom_estimator(self):$/;"	kind:member	line:55
+test_premade_estimator	../estimator_test.py	/^  def test_premade_estimator(self):$/;"	kind:member	line:50
+tf	../custom_estimator.py	/^import tensorflow as tf$/;"	kind:namespace	line:20
+tf	../estimator_test.py	/^import tensorflow as tf$/;"	kind:namespace	line:21
+tf	../iris_data.py	/^import tensorflow as tf$/;"	kind:namespace	line:2
+tf	../premade_estimator.py	/^import tensorflow as tf$/;"	kind:namespace	line:20
+train_input_fn	../iris_data.py	/^def train_input_fn(features, labels, batch_size):$/;"	kind:function	line:30

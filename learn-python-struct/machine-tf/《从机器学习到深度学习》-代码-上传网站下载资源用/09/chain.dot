@@ -1,0 +1,50 @@
+digraph G {
+        rankdir=LR
+	splines=line
+        node [label=""];
+        
+        subgraph cluster_0 {
+		color=white;
+                node [style=solid,color=blue4, shape=circle];
+		x1;
+	}
+
+	subgraph cluster_1 {
+		color=white;
+		node [style=solid,color=red2, shape=circle];
+		a12[label="a1"];
+	}
+
+
+	subgraph cluster_2 {
+		color=white;
+		node [style=solid,color=red2, shape=circle];
+		a13[label="a2"];
+	}
+
+	subgraph cluster_3 {
+		color=white;
+		node [style=solid,color=red2, shape=circle];
+		a14[label="a2"];
+	}
+
+
+
+	subgraph cluster_2 {
+		color=white;
+		node [style=solid,color=seagreen2, shape=circle];
+		y1;
+
+	}
+
+
+
+        x1 -> a12
+
+        a12 -> a13
+        a13 -> a14
+
+        a14 -> y1
+
+}
+

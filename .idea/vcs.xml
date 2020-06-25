@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo" vcs="Git" />
   </component>
 </project>
