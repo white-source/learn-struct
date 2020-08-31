@@ -2,223 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="346f16c4-6b1d-423b-a2b1-56a38fb73717" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learn-python-struct/base-struct/recursion/drawTurtle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learn-struct.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learn-struct.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/base-struct/HotPotato.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/base-struct/HotPotato.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/base-struct/Print.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/base-struct/Print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/base-struct/Queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/base-struct/Queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/base-struct/Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/base-struct/Stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/base-struct/recursion/recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/base-struct/recursion/recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/mine-data-ml/learn-code/3.3/predict_house_price.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/mine-data-ml/learn-code/3.3/predict_house_price.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/mine-data-ml/learn-code/3.4/mutlpy-lr.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/mine-data-ml/learn-code/3.4/mutlpy-lr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/LICENSE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/draw.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/draw.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/event.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/event.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/Advisor.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/Advisor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/Cannon.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/Cannon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/Chariot.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/Chariot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/Elephant.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/Elephant.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/General.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/General.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/General.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/General.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/Horse.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/Horse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/Soldier.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/Soldier.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/black/Advisor.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/black/Advisor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/black/Cannon.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/black/Cannon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/black/Chariot.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/black/Chariot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/black/Elephant.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/black/Elephant.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/black/General.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/black/General.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/black/Horse.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/black/Horse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/black/Soldier.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/black/Soldier.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/crop.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/crop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/red/Advisor.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/red/Advisor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/red/Cannon.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/red/Cannon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/red/Chariot.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/red/Chariot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/red/Elephant.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/red/Elephant.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/red/General.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/red/General.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/red/Horse.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/red/Horse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/red/Soldier.png" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/images/red/Soldier.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/resource.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/resource.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/rule.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/rule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/widget.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/Xiangqi/widget.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/.pylintrc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/.pylintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/CONTRIBUTING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/RESULTS.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/RESULTS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/WORKSPACE" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/WORKSPACE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/BUILD" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/BUILD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/algorithm.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/algorithm.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/benchmark.BUILD" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/benchmark.BUILD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/check.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/check.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/check.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/check.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/color.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/color.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/color.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/color.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/config/BUILD" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/config/BUILD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/config/minigo.bzl" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/config/minigo.bzl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/constants.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/constants.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/coord.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/coord.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/coord.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/coord.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/coord_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/coord_test.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/dual_net/BUILD" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/dual_net/BUILD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/dual_net/dual_net.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/dual_net/dual_net.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/dual_net/dual_net.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/dual_net/dual_net.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/dual_net/dual_net_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/dual_net/dual_net_test.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/dual_net/tf_dual_net.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/dual_net/tf_dual_net.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/dual_net/tf_dual_net.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/dual_net/tf_dual_net.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/file/BUILD" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/file/BUILD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/file/filesystem.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/file/filesystem.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/file/filesystem.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/file/filesystem.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/file/path.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/file/path.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/file/path.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/file/path.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/group.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/group.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/group.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/group.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/gtp_player.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/gtp_player.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/gtp_player.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/gtp_player.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/init.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/init.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/init.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/init.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/inline_vector.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/inline_vector.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/main.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/main.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/mcts_node.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/mcts_node.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/mcts_node.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/mcts_node.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/mcts_node_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/mcts_node_test.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/mcts_player.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/mcts_player.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/mcts_player.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/mcts_player.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/mcts_player_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/mcts_player_test.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/move.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/move.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/position.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/position.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/position.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/position.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/position_benchmark.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/position_benchmark.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/position_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/position_test.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/random.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/random.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/random.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/random.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/random_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/random_test.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/sgf.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/sgf.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/sgf.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/sgf.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/sgf_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/sgf_test.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/stone.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/stone.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/symmetries.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/symmetries.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/symmetries_test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/symmetries_test.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/test_utils.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/test_utils.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/test_utils.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/test_utils.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/tf_utils.cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/tf_utils.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/tf_utils.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/tf_utils.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/tiny_set.h" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cc/tiny_set.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cloud_logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cloud_logging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/base/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/base/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/base/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/base/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/common.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/evaluator/Dockerfile-cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/evaluator/Dockerfile-cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/evaluator/Dockerfile.gpu" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/evaluator/Dockerfile.gpu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/evaluator/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/evaluator/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/evaluator/cc-evaluator.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/evaluator/cc-evaluator.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/evaluator/evaluator_cc_wrapper.sh" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/evaluator/evaluator_cc_wrapper.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/evaluator/gpu-evaluator.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/evaluator/gpu-evaluator.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/evaluator/launch_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/evaluator/launch_eval.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/minigui/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/minigui/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/minigui/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/minigui/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/minigui/minigui-pod.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/minigui/minigui-pod.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/minigui/simple-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/minigui/simple-service.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/Dockerfile-cc" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/Dockerfile-cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/Dockerfile.gpu" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/Dockerfile.gpu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/cc-player.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/cc-player.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/cpu-player.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/cpu-player.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/gpu-player.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/gpu-player.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/gpu-provision-daemonset.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/selfplay/gpu-provision-daemonset.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/unset-common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/unset-common.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/utils.sh" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/cluster/utils.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/coords.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/coords.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/dual_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/dual_net.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/evaluation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/example_buffer.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/example_buffer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/features.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/features.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/fsdb.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/fsdb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/go.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/go.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/gtp_cmd_handlers.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/gtp_cmd_handlers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/gtp_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/gtp_engine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/gtp_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/gtp_wrapper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/local_rl_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/local_rl_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/mcts.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/mcts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/board.ts" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/board.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/graph.ts" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/graph.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/gtp_socket.ts" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/gtp_socket.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/log.ts" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/log.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/minigui-common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/minigui-common.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/minigui.ts" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/minigui.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/serve.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/serve.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/static/require/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/static/require/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/static/require/require.js" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/static/require/require.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/static/socketio/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/static/socketio/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/static/socketio/socket.io.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/static/socketio/socket.io.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/static/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/unset-minigui-common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/unset-minigui-common.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/util.ts" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/minigui/util.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/bigquery_games_schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/bigquery_games_schema.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/bigquery_moves_schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/bigquery_moves_schema.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/compare_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/compare_examples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/heatmap.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/heatmap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/oneoff_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/oneoff_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/position_pv.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/position_pv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/prepare_bigquery.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/prepare_bigquery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/resign_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/resign_analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/symmetry_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/symmetry_analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/training_curve.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/oneoffs/training_curve.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/player_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/player_interface.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/preprocessing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/requirements-analysis.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/requirements-analysis.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/rl_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/rl_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/rl_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/rl_runner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/selfplay_mcts.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/selfplay_mcts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/sgf/fetch_dataset.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/sgf/opening_stats.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/sgf_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/sgf_wrapper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/shipname.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/shipname.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/strategies.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/strategies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/symmetries.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/symmetries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/testing/Dockerfile.v2" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/testing/Dockerfile.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/testing/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/testing/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/testing/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/testing/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/testing/bootstrap_v2.sh" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/testing/bootstrap_v2.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/testing/version-v2.json" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/testing/version-v2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/example_game.sgf" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/example_game.sgf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/run_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/run_tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_coords.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_coords.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_dual_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_dual_net.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_features.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_features.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_flags" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_flags" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_go.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_go.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_mcts.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_mcts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_preprocessing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_sgf_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_sgf_wrapper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_shipname.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_shipname.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_strategies.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_strategies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_symmetries.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_symmetries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tests/test_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/10/git/minigo/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -243,13 +28,16 @@
   </component>
   <component name="JupyterTrust" id="3225f3bb-fc82-4cdb-a95e-1d849e7ec742" />
   <component name="ProjectId" id="1cLDzUaGrOn7TDqH7skFf92TW4H" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -276,20 +64,20 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/learn-python-struct/machine-tf/mine-data-ml/learn-code/3.4" />
-      <recent name="$PROJECT_DIR$/learn-python-struct/machine-tf/mine-data-ml/learn-code/3.3" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/learn-python-struct/machine-tf/wide-deep" />
       <recent name="$PROJECT_DIR$/learn-python-struct/base-struct/graph" />
       <recent name="$PROJECT_DIR$/learn-python-struct/base-struct/sort" />
       <recent name="$PROJECT_DIR$/learn-python-struct/base-struct" />
       <recent name="$PROJECT_DIR$/learn-python-struct/machine-tf/mine-data-ml/learn-code/3.3" />
-      <recent name="$PROJECT_DIR$/learn-python-struct/machine-tf/mine-data-ml/learn-code" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/learn-python-struct/machine-tf/mine-data-ml/learn-code/3.4" />
+      <recent name="$PROJECT_DIR$/learn-python-struct/machine-tf/mine-data-ml/learn-code/3.3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.drawTurtle">
-    <configuration name="3.5.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.wide2deep">
+    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-struct" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,12 +86,12 @@
         <env name="PATH" value="$USER_HOME$/spark-project/software/hadoop/bin:/usr/local/Cellar/scala/2.13.1/bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/bin:$USER_HOME$/spark-project/software/spark-2.4.4-bin-hadoop2.7/bin:$USER_HOME$/Software/maven//bin:/anaconda3/bin:/anaconda3/condabin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:$USER_HOME$/mygo/bin:/usr/local/Cellar/go/1.12.6/libexec/bin:/usr/local/mysql/bin" />
       </envs>
       <option name="SDK_HOME" value="/anaconda3/envs/201806-learn-tf/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python-struct/machine-tf/mine-data-ml/code/第3章 回归分析/3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python-struct/machine-tf/hands-on" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python-struct/machine-tf/mine-data-ml/code/第3章 回归分析/3.5/3.5.3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python-struct/machine-tf/hands-on/01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,6 +128,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
         <env name="PATH" value="$USER_HOME$/spark-project/software/hadoop/bin:/usr/local/Cellar/scala/2.13.1/bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/bin:$USER_HOME$/spark-project/software/spark-2.4.4-bin-hadoop2.7/bin:$USER_HOME$/Software/maven//bin:/anaconda3/bin:/anaconda3/condabin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:$USER_HOME$/mygo/bin:/usr/local/Cellar/go/1.12.6/libexec/bin:/usr/local/mysql/bin" />
       </envs>
       <option name="SDK_HOME" value="/anaconda3/envs/201806-learn-tf/bin/python" />
@@ -403,21 +192,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="word2vec" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wide2deep" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-struct" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
         <env name="PATH" value="$USER_HOME$/spark-project/software/hadoop/bin:/usr/local/Cellar/scala/2.13.1/bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/bin:$USER_HOME$/spark-project/software/spark-2.4.4-bin-hadoop2.7/bin:$USER_HOME$/Software/maven//bin:/anaconda3/bin:/anaconda3/condabin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:$USER_HOME$/mygo/bin:/usr/local/Cellar/go/1.12.6/libexec/bin:/usr/local/mysql/bin" />
       </envs>
       <option name="SDK_HOME" value="/anaconda3/envs/201806-learn-tf/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn-python-struct/machine-tf/wide-deep" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python-struct/machine-tf/《从机器学习到深度学习》-代码-上传网站下载资源用/08/word2vec.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn-python-struct/machine-tf/wide-deep/wide2deep.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -427,19 +215,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.3.5.3" />
-      <item itemvalue="Python.word2vec" />
       <item itemvalue="Python.tfidf" />
       <item itemvalue="Python.recursion" />
       <item itemvalue="Python.drawTurtle" />
+      <item itemvalue="Python.01" />
+      <item itemvalue="Python.wide2deep" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.wide2deep" />
+        <item itemvalue="Python.01" />
         <item itemvalue="Python.drawTurtle" />
         <item itemvalue="Python.recursion" />
         <item itemvalue="Python.tfidf" />
-        <item itemvalue="Python.word2vec" />
-        <item itemvalue="Python.3.5.3" />
       </list>
     </recent_temporary>
   </component>
@@ -494,7 +282,9 @@
       <workItem from="1592711411329" duration="747000" />
       <workItem from="1592712738749" duration="213000" />
       <workItem from="1592714062580" duration="237000" />
-      <workItem from="1593053682641" duration="445000" />
+      <workItem from="1593053682641" duration="1031000" />
+      <workItem from="1596337241997" duration="3076000" />
+      <workItem from="1598752338050" duration="1834000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构代码 + 机器学习入门代码">
       <created>1582988866315</created>
@@ -503,21 +293,41 @@
       <option name="project" value="LOCAL" />
       <updated>1582988866315</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="数据结构代码 + 机器学习入门代码">
+      <created>1593054435990</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593054435990</updated>
+    </task>
+    <task id="LOCAL-00003" summary="数据结构代码 + 机器学习入门代码">
+      <created>1598879022444</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598879022444</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="数据结构代码 + 机器学习入门代码" />
     <option name="LAST_COMMIT_MESSAGE" value="数据结构代码 + 机器学习入门代码" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="241" y="53" key="CommitChangelistDialog2" timestamp="1593054169736">
+    <state x="320" y="115" key="#Deployment" timestamp="1596375447565">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="241" y="53" key="CommitChangelistDialog2/0.0.1440.900/-99.-1152.2048.1152@0.0.1440.900" timestamp="1593054169736" />
+    <state x="320" y="115" key="#Deployment/0.0.1440.900/-99.-1152.2048.1152@0.0.1440.900" timestamp="1596375447565" />
+    <state x="154" y="-1016" key="CommitChangelistDialog2" timestamp="1598879006645">
+      <screen x="-167" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="154" y="-1016" key="CommitChangelistDialog2/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598879006645" />
+    <state x="241" y="53" key="CommitChangelistDialog2/0.0.1440.900/-99.-1152.2048.1152@0.0.1440.900" timestamp="1593054347378" />
     <state width="1398" height="324" key="GridCell.Tab.0.bottom" timestamp="1591584675097">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -558,18 +368,27 @@
     </state>
     <state width="1398" height="324" key="GridCell.Tab.1.right/0.0.1440.900/-167.-1080.1920.1080@0.0.1440.900" timestamp="1591584675100" />
     <state width="1398" height="324" key="GridCell.Tab.1.right/0.0.1440.900/-99.-1152.2048.1152@0.0.1440.900" timestamp="1591502469637" />
-    <state x="225" y="71" key="SettingsEditor" timestamp="1593054129359">
+    <state x="225" y="71" key="SettingsEditor" timestamp="1596375690836">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="225" y="71" key="SettingsEditor/0.0.1440.900/-99.-1152.2048.1152@0.0.1440.900" timestamp="1593054129359" />
+    <state x="225" y="71" key="SettingsEditor/0.0.1440.900/-99.-1152.2048.1152@0.0.1440.900" timestamp="1596375690836" />
     <state width="509" height="445" key="SwitcherDM" timestamp="1591182761006">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="509" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1591182761006" />
+    <state x="260" y="-858" key="Vcs.Push.Dialog.v2" timestamp="1598879031087">
+      <screen x="-167" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="260" y="-858" key="Vcs.Push.Dialog.v2/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598879031087" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.811/-99.-1129.2048.1129@0.23.1440.811" timestamp="1593054447416" />
     <state x="478" y="160" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1593054124277">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="478" y="160" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1440.900/-99.-1152.2048.1152@0.0.1440.900" timestamp="1593054124277" />
+    <state x="627" y="187" key="ftp.server.browser" timestamp="1596375152104">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="627" y="187" key="ftp.server.browser/0.0.1440.900/-99.-1152.2048.1152@0.0.1440.900" timestamp="1596375152104" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1591501056188">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
