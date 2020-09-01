@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="346f16c4-6b1d-423b-a2b1-56a38fb73717" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -284,7 +283,7 @@
       <workItem from="1592714062580" duration="237000" />
       <workItem from="1593053682641" duration="1031000" />
       <workItem from="1596337241997" duration="3076000" />
-      <workItem from="1598752338050" duration="1834000" />
+      <workItem from="1598752338050" duration="3765000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构代码 + 机器学习入门代码">
       <created>1582988866315</created>
@@ -307,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598879022444</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="数据结构代码 + 机器学习入门代码">
+      <created>1598879211120</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598879211120</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,10 +329,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#Deployment/0.0.1440.900/-99.-1152.2048.1152@0.0.1440.900" timestamp="1596375447565" />
-    <state x="154" y="-1016" key="CommitChangelistDialog2" timestamp="1598879006645">
+    <state x="154" y="-1016" key="CommitChangelistDialog2" timestamp="1598949070049">
       <screen x="-167" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="154" y="-1016" key="CommitChangelistDialog2/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598879006645" />
+    <state x="154" y="-1016" key="CommitChangelistDialog2/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598949070048" />
     <state x="241" y="53" key="CommitChangelistDialog2/0.0.1440.900/-99.-1152.2048.1152@0.0.1440.900" timestamp="1593054347378" />
     <state width="1398" height="324" key="GridCell.Tab.0.bottom" timestamp="1591584675097">
       <screen x="0" y="0" width="1440" height="900" />
@@ -376,10 +382,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="509" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1591182761006" />
-    <state x="260" y="-858" key="Vcs.Push.Dialog.v2" timestamp="1598879031087">
+    <state x="260" y="-858" key="Vcs.Push.Dialog.v2" timestamp="1598879218888">
       <screen x="-167" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="260" y="-858" key="Vcs.Push.Dialog.v2/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598879031087" />
+    <state x="260" y="-858" key="Vcs.Push.Dialog.v2/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598879218888" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.811/-99.-1129.2048.1129@0.23.1440.811" timestamp="1593054447416" />
     <state x="478" y="160" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1593054124277">
       <screen x="0" y="0" width="1440" height="900" />
